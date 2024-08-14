@@ -19,7 +19,7 @@ const nextConfig = {
               },
               {
                 key: 'Access-Control-Allow-Origin',
-                value: 'https://nextjs-with-supabase-five.vercel.app', 
+                value: 'https://nextjs-temp-neon.vercel.app', 
               },
               {
                 key: 'Access-Control-Allow-Credentials',

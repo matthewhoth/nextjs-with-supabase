@@ -1,7 +1,7 @@
 
 
 export const metadata = {
-  title: 'Test Page - Temp Hijacked',
+  title: 'Test Page',
 };
 
 function TestPage() {
@@ -9,7 +9,7 @@ function TestPage() {
 
       <div>
         <iframe
-          src="https://nextjs-temp-neon.vercel.app/auth/sign-in"
+          src="https://nextjs-with-supabase-five.vercel.app/login"
           style={{
             width: '100vw',
             height: '100vh',
